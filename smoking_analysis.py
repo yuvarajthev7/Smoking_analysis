@@ -11,7 +11,7 @@ print(df.columns.tolist())
 print("\ndataframe info")
 df.info()
 print("\nmissing values")
-df.isnull().sum() # nan values
+df.isnull().sum() # nan valuesd
 print("---------------------------")
 # Distribution of GENDER
 print("Distribution of GENDER")
